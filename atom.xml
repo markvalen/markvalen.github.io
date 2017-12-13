@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://markvalen.github.io/"/>
   <updated>2017-12-11T11:09:25.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://markvalen.github.io/</id>
   
   <author>
     <name>Mark</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/11/hello-world/"/>
-    <id>http://yoursite.com/2017/12/11/hello-world/</id>
+    <link href="https://markvalen.github.io/2017/12/11/hello-world/"/>
+    <id>https://markvalen.github.io/2017/12/11/hello-world/</id>
     <published>2017-12-11T13:14:10.366Z</published>
     <updated>2017-12-11T11:09:25.000Z</updated>
     
